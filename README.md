@@ -1,9 +1,9 @@
 ## Hello, Ravi here! 👋
 <br/>
 
-<table>
+<table style="border: none;">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="border: none;">
       <p>💪 I'm currently focusing on <strong>competitive programming</strong> and <strong>fullstack web development</strong>.</p>
       <ul>
         <li>Lifelong Learning</li>
@@ -11,7 +11,7 @@
         <li>Math</li>
         <li>English (Intermediate)</li>
       </ul>
-    </td>
+    </td style="border: none;">
     <td width="50%" valign="top" align="center">
       <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ravii-873&layout=compact&langs_count=6&theme=aura" alt="GitHub Stats" />
     </td>
@@ -19,6 +19,7 @@
 </table>
 
 <br/>
+
 #### What I'm learning 
 
 <div style="display: inline_block">
