@@ -1,17 +1,20 @@
 ## Hello, Ravi here! 👋
+
 <br/>
 
-💪 I'm currently focusing on competitive programming and fullstack web development.
+📌 I was born and currently live in Rio Grande do Sul / Brazil.
+💪 I'm focusing on competitive programming and full-stack web development.
+⏳ I have experience in Brazilian math competitions, winning awards since 2022.
+🗣️ Developing my English through practice and taking the Cambridge English Qualification this year.
 
-- Lifelong Learner
+- Lifelong Learning
 - Problem Solving
 - Math
 - English (Intermediate)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ravii-873&layout=compact&langs_count=6&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&theme=aura)
 
-
-#### What I'm learning 
+#### What I'm learning
 
 <div style="display: inline-block">
   <img align="center" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />          
