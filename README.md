@@ -9,7 +9,7 @@
 
 - Lifelong Learning
 - Problem Solving
-- Math
+- Maths
 - English (Intermediate)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ravii-873&layout=compact&langs_count=6&theme=aura)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=6&theme=aura)
